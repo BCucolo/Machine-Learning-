@@ -1,0 +1,1 @@
+Some of my projects envolving machine learning problems, two of the notebooks were developed during my classes of Machine Learning and Pattern Recognition (PMR3508), these were graded exercises that had specific objectives.
